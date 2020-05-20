@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Ronald0108/Space%20game%20-%20web%20-%20pipeline/_apis/build/status/rwburgman.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Ronald0108/Space%20game%20-%20web%20-%20pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
